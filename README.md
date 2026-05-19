@@ -79,4 +79,4 @@ This project is developed for educational purposes.
 
 ## 👨‍💻 Developer
 
-Developed by Your Name
+Developed by Anu
